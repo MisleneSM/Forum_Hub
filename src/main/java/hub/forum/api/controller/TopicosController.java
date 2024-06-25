@@ -38,5 +38,4 @@ public class TopicosController {
     public void excluir(@PathVariable Long id){
         repository.deleteById(id);
     }
-
 }
