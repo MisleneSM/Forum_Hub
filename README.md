@@ -56,13 +56,13 @@ Adicionado o Spring Security ao projeto, implementando uma autenticação e auto
 * Login: Permite criar um acesso com autenticação dos usuários (email e senha). Os usuários poderão ter acesso as informações do segundo tópico abaixo, seguindo as orientações de validação de token, explicado no `4. Guia de Instalação e Uso`👇
 * Cadastro de Tópicos: Permite criar, ler, atualizar, detalhar e deletar informações.
 
-Os testes para consultas, armazenamentos e buscas foram feitos através do Framework Open Source Insomnia.
+![Gif.gif](src/main/java/src/Gif.gif)
 
-![Gif.gif](..%2FDownloads%2FGif.gif)
+Os testes para consultas, armazenamentos e buscas foram feitos através do Framework Open Source Insomnia.
 
 ## 4. Guia de Instalação e Uso📝
 
-* Faça o Fork deste projeto
+* Faça o Fork deste projeto.
 * Abra o projeto em alguma IDE da sua escolha.
 * Atualize o Maven para garantir que as dependências foram baixadas corretamente.
 * Acesse o MySQL com seu nome cadastrado e senha.
@@ -73,10 +73,12 @@ Os testes para consultas, armazenamentos e buscas foram feitos através do Frame
   * Recomenda-se que para a criação da senha, seja utilizado um algoritmo de hash de senhas. Para criá-lo, basta utilizar o chatGPT, solicitando que o mesmo crie um hash de senha no formato BCrypt da senha desejada.
   * Ao inserir as informações, aperte ENTER.
   * Saia do MySQL.
+
 * Rode a aplicação.
 * Acesse a documentação pelo seu browser (Chrome, Firefox, etc), onde na barra de busca você pode acessar os seguintes links:
+
   * `http://localhost:8080/v3/api-docs/` - Você terá acesso à um JSON que explica todos os endereços e endpoints da API.
-  * `http://localhost:8080/swagger-ui.html` - Você terá acesso à API em uma versão Web.
+  * `http://localhost:8080/swagger-ui.html` - Você terá acesso à API em uma versão Web.👇
 
 ![img.png](src/main/java/src/img.png)
 
