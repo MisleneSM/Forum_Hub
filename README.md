@@ -6,7 +6,7 @@
 * [1. Introdução](#1-introducao)
 * [2. Estrutura Geral do Projeto](#2-estrutura-geral-do-projeto)
 * [3. Funcionalidades da API](#3-funcionalidades-da-api)
-* [4. Guia de Instalação e Uso](4#-guia-de-instalacao-e-uso)
+* [4. Guia de Instalação e Uso](#4-guia-de-instalacao-e-uso)
 * [5. Objetivos de Aprendizagem](#5-objetivos-de-aprendizagem)
 * [6. Tecnologias Utilizadas](#6-tecnologias-utilizadas)
 
