@@ -3,10 +3,10 @@
 
 ## Índice
 
-* [1. Introdução](#1-introducao)
+* [1. Introdução](#1-introdução)
 * [2. Estrutura Geral do Projeto](#2-estrutura-geral-do-projeto)
 * [3. Funcionalidades da API](#3-funcionalidades-da-api)
-* [4. Guia de Instalação e Uso](#4-guia-de-instalacao-e-uso)
+* [4. Guia de Instalação e uso](#4-guia-de-instalação-e-uso)
 * [5. Objetivos de Aprendizagem](#5-objetivos-de-aprendizagem)
 * [6. Tecnologias Utilizadas](#6-tecnologias-utilizadas)
 
@@ -14,7 +14,7 @@
 
 ## 1. Introdução🤩
 
-O Fórum Hub foi desenvolvido para atender as necessidades dos usuários participantes de uma plataforma de cursos e estudos, podendo realizar suas perguntas sobre determinados assuntos. Nesta plataforma os alunos utilizam o fórum para tirar suas dúvidas sobre os cursos, desafios e projetos em que estão participando. Esse projeto foi desenvolvido através do desafio proposto pelo programa ONE Oracle Next Education em parceria com a Alura.
+O Fórum Hub foi desenvolvido para atender as necessidades dos usuários participantes de uma plataforma de cursos e estudos, podendo realizar suas perguntas sobre determinados assuntos. Nesta plataforma os alunos utilizam o fórum para tirar suas dúvidas sobre os cursos, desafios e projetos em que estão participando. Esse projeto foi desenvolvido através do desafio proposto pelo programa ONE Oracle Next Education em parceria com a [Alura](https://www.alura.com.br/).
 
 ## 2. Estrutura Geral do Projeto📝
 
